@@ -16,5 +16,5 @@
 # Newsletter 
 [NEWSLETTER PDF](newsletter.pdf)
 
-## Reflection
+# Reflection
 Dr Sean Choon Sen’s talk truly inspired me in many different ways. This new innovation of I-Farm has opened up new possibilities for the agriculture field and provided new ways for people to obtain their green groceries. In my opinion, I think I-Farm has made the whole process of adapting to the new norm of reduced outdoor pursuit more convenient with its service. His insights had motivated me to notice real-life issues that can be transformed into a new business opportunities. This talk made me realize the infinite possibilities to incorporate IT technologies and business to create new value to the world.
