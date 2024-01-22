@@ -1,4 +1,4 @@
-# :left_speech_bubble: Industrial Talk 4
+# :left_speech_bubble: Industrial Talk 3
 *Group 8 Members:*  
 :woman_student: Lee Lai Queen <br>
 :man_student:  Ow Yee Hao <br>
